@@ -1,6 +1,6 @@
 
 
-MovieInSync Backend
+MoveInSync Backend
 
 
 ## Steps to run the project
