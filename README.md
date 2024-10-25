@@ -16,7 +16,7 @@ Clone the repository
 Go to the project directory
 
 ```bash
-  cd MoveInSync
+  cd MoveInSync-Assignment-Backend
 ```
 
 Install dependencies
