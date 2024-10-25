@@ -28,6 +28,10 @@ Run the project locally
 ```bash
   node server
 ```
-
-
+Setup .env file 
+```
+PORT=5000
+MONGODB_URI="YOUR_MONGODB_URL"
+JWT_SECRET="YOUR_SECRET_HERE"
+```
 
